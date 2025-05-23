@@ -13,14 +13,14 @@ A minimal and modern monorepo starter template powered by [Lerna](https://lerna.
 - 🔄 Shared dependencies managed centrally
 - ✨ Clean and minimal setup – no unnecessary boilerplate
 - 📁 Organized with `packages/` folder per module
-- 🔧 Ready for tools like **Npm-Check-Updates** and **Prettier**
+- 🔧 Ready for tools like **Npm-Check-Updates**, **NVM** and **Prettier**
 - 📜 MIT licensed – free to use and modify
 
 ---
 
 ## 💡 Requirements
 
-- [Node.js](https://nodejs.org/) 20+
+- [Node.js](https://nodejs.org/) 24+
 - [Git](https://git-scm.com/)
 
 ## 🚀 Getting Started
