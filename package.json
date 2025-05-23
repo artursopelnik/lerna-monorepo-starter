@@ -1,0 +1,22 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "@types/node": "^22.15.21"
+  },
+  "devDependencies": {
+    "lerna": "^8.2.2",
+    "typescript": "^5.8.3",
+    "npm-check-updates": "^18.0.1",
+    "prettier": "^3.5.3"
+  },
+  "scripts": {
+    "build": "npm run build:tokens && npx lerna run build",
+    "build:tokens": "npx lerna run build --scope='@stencil-storybook-boilerplate/design-tokens'",
+    "update": "npx npm-check-updates -u",
+    "format": "npx prettier . --write"
+  }
+}
