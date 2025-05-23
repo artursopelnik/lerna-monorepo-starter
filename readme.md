@@ -1,4 +1,4 @@
-# [Lerna Monorepo Starter](https://artursopelnik.github.io/lerna-monorepo-starter/)
+# [Lerna Monorepo Starter](https://github.com/artursopelnik/lerna-monorepo-starter/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/artursopelnik/lerna-monorepo-starter/blob/main/LICENSE.txt)
 
